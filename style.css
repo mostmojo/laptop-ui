@@ -187,7 +187,7 @@ nav {
 	.laptop-select {
 		bottom: 5%;
 		right: 50%;
-		width: 50%;
+		width: 40%;
 		transform: translate(50%, 5%);
 	}
 
@@ -199,5 +199,15 @@ nav {
 	.medium-circle,
 	.big-circle {
 		opacity: 0.2;
+	}
+
+	.cta-add {
+		height: 40px;
+		font-size: 14px;
+	}
+
+	.cta-select {
+		height: 40px;
+		font-size: 14px;
 	}
 }
